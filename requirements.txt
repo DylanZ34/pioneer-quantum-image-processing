@@ -1,0 +1,14 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+qiskit
+qiskit-aer
+pylatexenc
+opencv-python
+Pillow
+keras
+tensorflow
+h5py
+jupyterlab
+ipykernel

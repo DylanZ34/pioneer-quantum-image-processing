@@ -1,0 +1,17 @@
+[
+  {
+    "source": "Downloads/Quantum_Image_Processing (3).ipynb",
+    "destination": "notebooks/quantum_image_processing.ipynb",
+    "source_sha256": "cd2285a593944cf8855ec014c354caaf0c56f6877d8c885a67d4126ff2207f05"
+  },
+  {
+    "source": "Downloads/uti8888.ipynb",
+    "destination": "notebooks/experiments/morphology_exploration.ipynb",
+    "source_sha256": "51a99f11576621a85b579ee8dc80ab4b939c43157bd60df3113db51b587e48e7"
+  },
+  {
+    "source": "Downloads/spiral_galaxies_1.jpg",
+    "destination": "data/spiral_galaxies_1.jpg",
+    "source_sha256": "06877cc55df8e23b1ea84d382e3f6a9788cb6ac0c9bc220236004cb3d7c62ff9"
+  }
+]

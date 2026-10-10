@@ -1,0 +1,5 @@
+# Validation
+
+Both selected notebooks passed static Python syntax checks. All scientific code cells in the main galaxy notebook executed successfully with the available Python 3.11 environment (Qiskit 2.1.0, Aer 0.17.1, NumPy 2.1.3); package-install/magic lines and circuit-drawing cells were skipped, and matplotlib used a noninteractive backend. Both 20,000-shot simulations completed. Original saved outputs were not replaced. Morphology exploration was not run because its 16.93 GB input is excluded. A fresh isolated dependency installation was not tested.
+
+Pre-upload checks found no credential, private-key, personal-ID or confidentiality patterns in selected readable code, notebook text/outputs and supporting text files. Encoded notebook images were excluded from token-pattern scanning after earlier matches proved to be base64 coincidences. All selected files are below 50 MB. Source reports, peer reviews, shell history, environments and archives were not included. The user confirmed no mentor/lab permission issues.
